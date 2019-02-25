@@ -1,0 +1,14 @@
+1.初始化本地git仓库
+git init
+2.添加文件
+git add<file>
+3.查看状态
+git status
+4.提交
+git commit
+5.推送到仓库
+git push
+6.从远程仓库拉取数据
+git pull
+7.从远程仓库拷贝数据
+git clone
